@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Gauri Smiju**, a B.Tech Information Technology student at Government Engineering College Barton Hill, Trivandrum. I'm passionate about software development, problem-solving, and building impactful projects. I enjoy exploring web development, Flutter, databases, and open-source while actively contributing to technical communities through ISTE.
+I'm **Gauri Smiju**, a B.Tech Information Technology student at Government Engineering College Barton Hill, Trivandrum. I'm passionate about software development, problem-solving, and building impactful projects. 
 
 🌱 Currently learning full-stack development and sharpening my DSA & placement skills.  
 💡 Always open to learning, collaborating, and building meaningful tech solutions.
